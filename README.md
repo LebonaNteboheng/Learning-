@@ -15,7 +15,7 @@ This is a simple web application that predicts the next word(s) in a sequence us
 
 ## Files in the Project
 
-- `202101697.py`: model training file
+- `model_training.py`: model training file
 - `app.py`: Main application file
 - `nextWord_model.h5`: trained model file
 - `tokenizer.pickle`: Tokenizer for text processing
